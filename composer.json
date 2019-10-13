@@ -1,0 +1,19 @@
+{
+    "name": "garata-sm/workcarrier",
+    "description": "PHP process daemonizing library",
+    "authors": [
+        {
+            "name": "Giorgio Arata",
+            "email": "g.arata@siapmicros.com",
+            "role": "developer"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "WorkCarrier": "src/"
+        }
+    },
+    "require": {
+        "phpunit/phpunit": "~7.0"
+    }
+}
